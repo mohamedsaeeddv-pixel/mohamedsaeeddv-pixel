@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Mohamed Said (ZO8BY)**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&pause=1000\&color=00F5FF\&center=true\&vCenter=true\&width=600\&lines=Mobile+Developer+%7C+Flutter+Enthusiast;Cross+Platform+App+Builder;Firebase+%26+Clean+Architecture+Lover;Always+Learning+New+Things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&pause=1000\&color=00F5FF\&center=true\&vCenter=true\&width=600\&lines=Flutter+%26+React+Native+Developer;Cross+Platform+App+Builder;Firebase+%26+Clean+Architecture+Lover;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,9 +15,9 @@
 
 ## 🚀 About Me
 
-* 🌱 Focused on **Flutter** and **cross-platform mobile development**
-* 🔥 Experienced in **Dart**, **Firebase**, **Google Maps**, and **Clean Architecture**
-* 💡 Skilled in **React Native**, **HTML**, **CSS**, **JavaScript**, and **Bootstrap**
+* 🌱 Specialized in **Flutter** and **React Native**
+* 🔥 Experienced with **Dart**, **Firebase**, **Google Maps**, and **Clean Architecture**
+* 💡 Familiar with **HTML**, **CSS**, **JavaScript**, and **Bootstrap**
 * 🧩 Love solving problems and writing clean, maintainable code
 * 🎯 Goal: create seamless user experiences and efficient mobile solutions
 
@@ -33,41 +33,4 @@
 
 ### 🧰 Tools & Services
 
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase"/></a> <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/></a> <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/></a> <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/></a> <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio"/></a>
-
-</div>
-
----
-
-## 📱 Featured Projects
----
-
-## 🏆 Achievements & Stats
-
-<div align="center">
-
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=mohamedsaeeddv-pixel\&theme=tokyonight\&no-frame=true\&margin-w=10)
-
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedsaeeddv-pixel\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsaeeddv-pixel\&layout=compact\&theme=tokyonight)
-
-</div>
-
----
-
-## 🔗 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Saeed-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/mohamed-said-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-mohamedsaeeddv--pixel-black?style=for-the-badge\&logo=github)](https://github.com/mohamedsaeeddv-pixel)
-
-</div>
-
----
-
-<div align="center">
-
-⭐️ *Thanks for visiting my profile! Feel free to check out my projects and leave a star if you like them.* ✨
-
-![snake gif]([https://github.com/mohamedsaeeddv-pixel/mohamedsaeeddv-pixel/blob/](https://github.com/mohamedsaeeddv-pixel/mohamedsaeeddv-pixel/blob/)
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase"/></a> <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/></a> <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/></a> <a href="#"><im
