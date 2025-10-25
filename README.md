@@ -40,19 +40,6 @@
 ---
 
 ## 📱 Featured Projects
-
-### 🚖 [SmartRide](https://github.com/mohamedsaeeddv-pixel/smartride)
-
-Ride-booking app with **Google Maps API** and **Firebase** for real-time tracking and authentication.
-
-### 🏪 [ShopEase](https://github.com/mohamedsaeeddv-pixel/shopease)
-
-E-commerce app built using **Clean Architecture**, **Firebase**, and **Provider**.
-
-### 💬 [ChatLink](https://github.com/mohamedsaeeddv-pixel/chatlink)
-
-Real-time chat app with **Firebase Authentication**, **Cloud Firestore**, and **Push Notifications**.
-
 ---
 
 ## 🏆 Achievements & Stats
@@ -72,7 +59,7 @@ Real-time chat app with **Firebase Authentication**, **Cloud Firestore**, and **
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Saeed-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/mohamed-said-b1b41421b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Saeed-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/mohamed-said-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-mohamedsaeeddv--pixel-black?style=for-the-badge\&logo=github)](https://github.com/mohamedsaeeddv-pixel)
 
 </div>
