@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Mohamed Saeed (ZO8BY)**
+# 👋 Hi, I'm **Mohamed Said (ZO8BY)**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&pause=1000\&color=00F5FF\&center=true\&vCenter=true\&width=600\&lines=Mobile+Developer+%7C+Flutter+Enthusiast;Cross+Platform+App+Builder;Firebase+%26+Clean+Architecture+Lover;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
